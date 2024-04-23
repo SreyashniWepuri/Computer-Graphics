@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rock Photoscanned
+* source:	https://sketchfab.com/3d-models/rock-photoscanned-e4857644bde84f54aadde9fc129785ae
+* author:	CL4PTRAP (https://sketchfab.com/Gian.Flower)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rock Photoscanned" (https://sketchfab.com/3d-models/rock-photoscanned-e4857644bde84f54aadde9fc129785ae) by CL4PTRAP (https://sketchfab.com/Gian.Flower) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
